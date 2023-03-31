@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "15dc9cf91aafe5660dc441743d9020f8",
+    "packages": [
+        {
+            "name": "eru123/router",
+            "version": "0.3.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eru123/php-router.git",
+                "reference": "fa52aabc90d47305d2829c69f20db32f8502c0f7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eru123/php-router/zipball/fa52aabc90d47305d2829c69f20db32f8502c0f7",
+                "reference": "fa52aabc90d47305d2829c69f20db32f8502c0f7",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "eru123\\router\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "eru123",
+                    "email": "39824083+eru123@users.noreply.github.com"
+                }
+            ],
+            "description": "A PHP Library for handling Routes using a Parent-Child Model",
+            "support": {
+                "issues": "https://github.com/eru123/php-router/issues",
+                "source": "https://github.com/eru123/php-router/tree/0.3.2"
+            },
+            "time": "2023-03-31T17:23:36+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
